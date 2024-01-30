@@ -1,0 +1,27 @@
+{
+    "name": "🔱 𝐙𝐄 🔱",
+    "description": "مرحبا بكم في تنصيب النشر التلقائي الخاص بسورس زد إي",
+    "logo": "https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg",
+    "stack": "container",
+    "repository": "https://t.me/Source_Ze",
+    "keywords": ["python", "chatbot", "telegrambot"],
+    "website": "https://t.me/Source_Ze",
+    "env": {
+        "SESSION": {
+            "description": "ضع جلسة التريمكس",
+            "value": "",
+            "required": true
+        },
+        "APP_ID": {
+            "description": "ضع ابب ايدي المكون من 6 ارقام",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ضع ابب هاش المكون من ارقام وحروف",
+            "value": "",
+            "required": true
+        }
+    },
+    "automatic_deploy": false
+}
