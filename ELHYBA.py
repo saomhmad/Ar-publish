@@ -6,7 +6,7 @@ from telethon import events
 from mody import *
 from asyncio import sleep
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
-logging.basicMody(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
+logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
 logger = logging.getLogger("ZE")
 logger.info("النشر التلقائي شغال الان استمتع ✓")
 
