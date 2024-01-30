@@ -1,1 +1,1 @@
-worker: bash elhyba.py
+bot: python -m elhyba
