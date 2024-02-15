@@ -3,9 +3,9 @@
     "description": "مرحبا بكم في تنصيب النشر التلقائي الخاص بسورس العرب",
     "logo": "https://telegra.ph/file/c724d26757799b0619da7.jpg",
     "stack": "container",
-    "repository": "https://t.me/Source_Ze",
+    "repository": "https://t.me/ggqgg",
     "keywords": ["python", "chatbot", "telegrambot"],
-    "website": "https://t.me/Source_Ze",
+    "website": "https://t.me/ggqgg",
     "env": {
         "SESSION": {
             "description": "ضع جلسة التريمكس",
@@ -14,12 +14,12 @@
         },
         "APP_ID": {
             "description": "ضع ال ايبي ايدي المكون من 8 ارقام",
-            "value": "",
+            "value": 28337893"",
             "required": true
         },
         "APP_HASH": {
             "description": "ضع ال ايبي هاش الخاص بحسابك",
-            "value": "",
+            "value": "8a69d449262224e7fceab84b2ff7f7c5",
             "required": true
         }
     },
