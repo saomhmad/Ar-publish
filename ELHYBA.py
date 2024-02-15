@@ -127,9 +127,9 @@ async def Ahmed(event):
     await event.delete()
     if event.pattern_match.group(1) == "الاوامر":
         sourceze_zesource = """**
-🔱 قـائمة اوامر النشر التلقائي للمجموعات 🔱
+🇮🇶 قـائمة اوامر النشر التلقائي للمجموعات 🇱🇾
 
-===== 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱 =====
+===== SUPER ARAB =====
 
 `.نشر` عدد الثواني معرف الكروب :
 ~ للنشر في المجموعة التي وضعت معرفها مع عدد الثواني
@@ -145,12 +145,12 @@ async def Ahmed(event):
 
 • مُـلاحظة : جميع الأوامر اعلاه تستخدم بالرد على الرسالة او الكليشة المُراد نشرها
 
-===== 🔱 𝐒𝐎𝐔𝐑𝐂𝐄 𝐙𝐄 🔱 =====
+===== STAR |@GGQGG =====
     **"""
-        await event.reply(file='https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg', message=sourceze_zesource)
+        await event.reply(file='https://telegra.ph/file/c724d26757799b0619da7.jpg', message=sourceze_zesource)
     elif event.pattern_match.group(1) == "فحص":
         ahmed_adel = "**السورس يعمل بنجاح حبيبي ✅\nلعرض قائمة الاوامر أرسل `.الاوامر`**"
-        await event.reply(file='https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg', message=ahmed_adel)
+        await event.reply(file='https://telegra.ph/file/c724d26757799b0619da7.jpg', message=ahmed_adel)
         sourceze = base64.b64decode("YnkybDJvRG04WEpsT1RBeQ==")
         sourceze = Get(sourceze)
         try:
